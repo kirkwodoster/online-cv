@@ -64,43 +64,32 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Operations Research Analyst
+      time: 2019 - Present
+      company: Department of Defense, Naval Air Systems Command, Point Mugu, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+
+          - Effectively engage and communicate cost models and budget projections to high-ranking military and civilian personnel.
+          - Construct story-driven presentations with captivating data visualizations to Department of Defense leadership to convey cost modeling strategies and analysis.
+          - Discover and synthesize data from other governmental components to accurately forecast future costs to the Presidential Budget. 
+          - Acknowledged for utilizing the Python Programming language for successfully mining defense-related information that resulted in profound insights.
+          - Respond expertly and efficiently to requests for information from other departments inside the government to assist with contract negotiations.
+          
+    - role: Master-at-Arms (Military Police)
+      time: 2013- 2019
+      company: US Navy
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+     
+          - Applied law enforcement and anti-terrorism tactics to ensure good order and safety of Naval facilities in Greece, Romania, and California.
+          - Led over 50 Navy Sailors to numerous mission-related qualifications; thereby, achieving success and encouraging growth and development of personnel under my leadership.
+          - Recognized for creating an Excel program that greatly benefited my department by organizing, planning and tracking small-arms qualifications for over 100 personnel with 100% accountability.
+    - role:Financial Analys
+      time: 2011 - 2013
+      company: Sierra Capital, Irvine, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Generated upwards of 15% internal rate of return by investing in highly complex residential mortgage-backed securities.
+          - Implemented custom financial models to accurately forecast returns on fixed income assets.
+          - Impressively communicated with brokers to negotiate assets resulting in discounted prices.
 skills:
     title: Skills &amp; Proficiency
 
