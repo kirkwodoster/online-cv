@@ -90,18 +90,14 @@ experiences:
           - Generated upwards of 15% internal rate of return by investing in highly complex residential mortgage-backed securities.
           - Implemented custom financial models to accurately forecast returns on fixed income assets.
           - Impressively communicated with brokers to negotiate assets resulting in discounted prices.
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python, R, Excel, SQL
-        #level: 98%
-
-      - name: Scikit-Learn, Pandas, Numpy, PyTorch, TensorFlow
-        #level: 98%
-
-      - name: AWS, Azure, Google Cloud, Azure
-        #level: 98%
+          
+          
+          
+experiences:
+    - role: Operations Research Analyst
+      time: 2019 - Present
+      company: Department of Defense, Naval Air Systems Command, Point Mugu, CA
+      details: |
 
 
 
