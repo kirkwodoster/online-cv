@@ -97,17 +97,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python, R, SQL
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: AWS, Azure, Google Cloud
         level: 98%
 
-      - name: Angular
+      - name: Scikit-Learn, Pandas, Numpy, Pytorch, TensorFlow
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Deep Learning, Imbalanced Data, NLP
+        #level: 95%
 
 
 
