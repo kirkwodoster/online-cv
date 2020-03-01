@@ -45,24 +45,17 @@ education:
       university: Lewis University
       time: 2016-2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
     - degree: Graduate Certificate in Applied Statistics
       university: Penn State
       time: 2017-2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
+    - degree: Criminology, Law and Society
+      university: University of California, Irvine
+      time: 2007-2009
+      details: |
+       
 experiences:
     - role: Operations Research Analyst
       time: 2019 - Present
