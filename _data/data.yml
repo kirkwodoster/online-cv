@@ -91,23 +91,33 @@ experiences:
           - Implemented custom financial models to accurately forecast returns on fixed income assets.
           - Impressively communicated with brokers to negotiate assets resulting in discounted prices.
           
-          
+projects:
+    title: Projects
+    intro: >
+      
+    assignments:
+      - title: "Coronavirus COVID-19 Global DashBoard"
+        link: "https://kirkwoodster.pythonanywhere.com/"
+        tagline: "A real-time interactive web-application that tracks the Coronavirus"
+
+
+
           
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python, R, SQL
-        level: 98%
+        level: 100%
 
       - name: AWS, Azure, Google Cloud
-        level: 98%
+        level: 100%
 
       - name: Scikit-Learn, Pandas, Numpy, Pytorch, TensorFlow
-        level: 98%
+        level: 100%
 
-      - name: Deep Learning, Imbalanced Data, NLP
-        #level: 95%
+      - name: Deep Learning, Machine Learning, Imbalanced Data, NLP
+        level: 100%
 
 
 
